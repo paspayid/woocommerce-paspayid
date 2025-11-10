@@ -1,3 +1,4 @@
+<?php
 /*
 Plugin Name: Paspay Payment Gateway
 Plugin URI: https://paspay.id
